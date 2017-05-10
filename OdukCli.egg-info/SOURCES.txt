@@ -1,0 +1,7 @@
+odukcli.py
+OdukCli.egg-info/PKG-INFO
+OdukCli.egg-info/SOURCES.txt
+OdukCli.egg-info/dependency_links.txt
+OdukCli.egg-info/entry_points.txt
+OdukCli.egg-info/requires.txt
+OdukCli.egg-info/top_level.txt
